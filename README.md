@@ -1,2 +1,0 @@
-# demo
-hello new project
